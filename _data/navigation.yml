@@ -1,0 +1,18 @@
+- title: 首页
+  url: "/"
+  side: left
+
+- title: "Kafka"
+  url: "/kafka/"
+  side: left
+
+
+
+- title: "归档"
+  url: "/archive/"
+  side: left
+
+- title: "搜索"
+  url: "/search/"
+  side: right
+
